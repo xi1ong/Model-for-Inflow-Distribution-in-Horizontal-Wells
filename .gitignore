@@ -1,0 +1,16 @@
+# Editor and operating-system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.asv
+*.m~
+*.swp
+*.tmp
+~$*
+__pycache__/
+*.py[cod]
+
+# Keep generated research artifacts out of the source-only repository.
+/figures/
+/results/
+/tmp/
